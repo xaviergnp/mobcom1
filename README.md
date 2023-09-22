@@ -1,2 +1,2 @@
 # mobcom1
-Mobile Computing projects
+Mobile Computing 1 projects
